@@ -21,9 +21,9 @@ Deliverable 4: Create the Movie Database
 
 [Link to Jupyter Notebook Deliverable 4 code](ETL_create_database.ipynb)
 
-![Movies Query](movies_query.PNG)
+![Movies Query](movies_query.png)
 
-![Ratings Query](ratings_query.PNG)
+![Ratings Query](ratings_query.png)
 
 ### Resources
 
