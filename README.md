@@ -19,7 +19,7 @@ Deliverable 3: Extract and Transform the Kaggle data
 
 Deliverable 4: Create the Movie Database
 
-[Link to Jupyter Notebook Deliverable 4 code](ETL_create_database.ipynb)
+[Link to Jupyter Notebook Deliverable 4 code](ETL_create_database2.ipynb)
 
 ![Movies Query](movies_query.png)
 
